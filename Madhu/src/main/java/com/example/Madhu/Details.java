@@ -15,6 +15,7 @@ public class Details {
     private String name;
     private String email;
     private String number;
+    private String field;
 
     public long getId() {
         return id;
